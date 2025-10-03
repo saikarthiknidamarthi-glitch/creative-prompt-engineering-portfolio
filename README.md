@@ -1,24 +1,49 @@
-# AI Portfolio
+# 📚 AI-Portfolio-Stories-V1  
 
-This repository showcases my AI learning journey through practical **prompt engineering** experiments and polished outputs, suitable for recruiters, mentors, and peers.
-
-## What's inside
-- **Module-2 (Prompt Engineering):** Creative storytelling with zero-shot and few-shot prompts, style steering for humor & sentiment, and structured outputs (storybook format) with **professional rubric evaluations**.
-
-## Featured Work
-- **The Great Pedal Escape** — Youth-focused short story with humor, adventure, and sentiment; includes a 5-part storybook layout and illustration prompts.
-- **The Story of a Black Horse** — Emotion-driven narrative with portfolio-style rubric feedback.
-
-## Skills Demonstrated
-- Zero-shot & few-shot prompting
-- Style steering (tone, voice, audience)
-- Iterative refinement & output curation
-- Structuring content for publishing (DOCX, PDFs)
-- Professional self-evaluation using rubrics (with percentages)
-
-## How to navigate
-- Go to `Module-2_PromptEngineering/` to see the complete artifacts (stories + rubric evaluations).
+🚀 My AI learning portfolio — **creative storytelling with prompt engineering**.  
+This repo contains my Module-2 experiments where I used **zero-shot, few-shot, style steering, and structured prompting** to create engaging stories.  
+Each story is paired with a **professional rubric evaluation** for authenticity.  
 
 ---
-*Last updated:* 2025-10-03
 
+## 🌟 Featured Stories  
+
+### 🐴 The Story of a Black Horse  
+A symbolic, emotional narrative exploring friendship, loyalty, and sentiment.  
+- 📄 [Read the story (PDF)](Module-2_PromptEngineering/The_Story_of_a_Black_Horse.pdf)  
+- 📝 [Rubric Evaluation (DOCX)](Module-2_PromptEngineering/Black_Horse_Rubric_Evaluation.docx)  
+- 🔗 [Gemini Share Link](https://g.co/gemini/share/7da3a37c8377)  
+
+---
+
+### 🚲 The Great Pedal Escape  
+A humorous and adventurous youth story where a broken cycle saves an entire colony.  
+- 📄 [Read the story (DOCX)](Module-2_PromptEngineering/The_Great_Pedal_Escape.docx)  
+- 📝 [Portfolio Entry (Prompt + Skills + Rubric)](Module-2_PromptEngineering/Portfolio_Creative_Prompt_Entry.docx)  
+- 📝 [Rubric Evaluation (DOCX)](Module-2_PromptEngineering/Story_Rubric_Evaluation.docx)  
+- 🔗 [Gemini Share Link](https://g.co/gemini/share/e9cf6a30c83b-)  
+
+---
+
+## 🎯 Skills Demonstrated  
+- **Zero-shot prompting** → Generating original story ideas without examples  
+- **Few-shot prompting** → Refining tone and style with guided instructions  
+- **Style steering** → Balancing humor, sentiment, and youth-friendly punchlines  
+- **Chain-of-thought structuring** → Breaking story into logical 5-part arcs  
+- **Output curation** → Iteratively refining drafts into polished, portfolio-ready content  
+- **Professional rubric evaluation** → Self-assessment with percentage-based scoring  
+
+---
+
+## 📂 Repository Structure  
+
+
+---
+
+## 📌 About This Repo  
+This is **Version 1 (V1)** of my AI Portfolio.  
+It documents my Module-2 learnings in **Prompt Engineering** through creative storytelling.  
+Future versions will expand into **dashboards, applied AI case studies, and advanced modules**.  
+
+---
+✨ *Last updated: 2025-10-03*  
